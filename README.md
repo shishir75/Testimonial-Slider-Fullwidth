@@ -1,4 +1,4 @@
-# testimonial-slider-fullwidth
+# Testimonial-Slider-Fullwidth
 
 You've poured your heart into your website copy. This simple text resizer can help ensure that your website visitors can easily read those words.
 
